@@ -1,7 +1,7 @@
 # Computer Science (Informatika) Learning Materials
 
 ## Overview
-This repository contains learning materials designed for **Grade 8** students studying **Computer Science (Informatika)** at the junior high school level in **Indonesia**. The materials are tailored for students in **rural areas** with **lower to lower-middle socioeconomic status**, ensuring accessibility and relevance to their context. The content is beginner-friendly, engaging, and structured to accommodate varying levels of **reading**, **writing**, and **mathematics skills** (to be assessed, TBA).
+This repository houses exercise files for computer science subject for junior high school students in rural Indonesia. For further information on the audience, see Target Audience.
 
 ## Objectives
 As per the principal's request, students are expected to master using office softwares including: (1) word processing, (2) data processing, and (3) presentation slide.
