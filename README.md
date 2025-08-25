@@ -6,10 +6,13 @@ This repository houses exercise files for computer science subject for junior hi
 ## Objectives
 As per the principal's request, students are expected to master using office softwares including: (1) word processing, (2) data processing, and (3) presentation slide.
 
-## Target Audience
-- **Grade Level**: 8 (Junior High School)
+## Context
+- **Grade Level**: 8
+- **Education Level**: Junior High School
 - **Subject**: Computer Science (Informatika)
 - **Location**: Rural Indonesia
+- **Computers in Laboratory**: 18 computers
+- **Students per Class**: 36 students
 - **Socioeconomic Status**: Lower to lower-middle class
 - **Reading Skills**: To be added
 - **Writing Skills**: To be added
