@@ -1,7 +1,7 @@
 # Computer Science (Informatika) Learning Materials
 
 ## Overview
-This repository houses exercise files for computer science subject for junior high school students in rural Indonesia. For further information on the audience, see Target Audience.
+This repository contains learning materials for computer science subject for junior high school students in rural Indonesia. For further information on the audience, see Target Audience.
 
 ## Objectives
 As per the principal's request, students are expected to master using office softwares including: (1) word processing, (2) data processing, and (3) presentation slide.
@@ -38,17 +38,10 @@ The materials cover the following topics (based on Indonesian Ministry of Primar
    - Introduction to data types and simple data organization.
    - Using spreadsheets for basic calculations (if computers are available).
 
-## Features
-- **Accessible Design**: Materials are written in simple Bahasa Indonesia with clear explanations and visual aids.
-- **Low-Tech Options**: Activities include paper-based exercises (e.g., drawing flowcharts, manual calculations) for schools with limited technology.
-- **Culturally Relevant Examples**: Examples and scenarios reflect rural Indonesian life to make learning engaging and relatable.
-- **Hands-On Activities**: Practical exercises to encourage active participation and reinforce concepts.
-- **Scalable Content**: Materials can be adapted for different skill levels as reading, writing, and mathematics skills are assessed.
-
 ## Usage
 1. **Teachers**:
    - Use the materials as lesson plans or supplementary resources.
-   - Adapt activities based on available resources (e.g., computers, paper, or chalkboards).
+   - Adapt activities based on available resources (e.g., computers, paper, or whiteboards).
    - Provide feedback to refine content for local needs.
 2. **Students**:
    - Follow guided activities to explore Computer Science concepts.
